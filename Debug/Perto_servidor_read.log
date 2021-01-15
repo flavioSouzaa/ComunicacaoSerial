@@ -1,0 +1,4 @@
+﻿  ReadBuffer.cpp
+d:\c++\perto_servidor_read\readbuffer.cpp(59): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\c++\perto_servidor_read\readbuffer.cpp(64): warning C4018: '<=': incompatibilidade de signed/unsigned
+  Perto_servidor_read.vcxproj -> D:\C++\Perto_servidor_read\Debug\Perto_servidor_read.exe
